@@ -1,0 +1,9 @@
+kancolle-replay/
+node_modules/
+data/
+accounts/*
+!accounts/.gitkeep
+out/
+work/
+package.json
+package-lock.json
