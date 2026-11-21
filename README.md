@@ -37,3 +37,6 @@ Claude 会读 `CLAUDE.md` 里的工作规则：查 wiki 确认任务条件和路
 - 带損管大破进击这类方案有沉船风险，操作前自己确认損管确实装在大破的船上。
 - 数据来源和计算核都是第三方项目：[kancolle-replay](https://github.com/KC3Kai/kancolle-replay)、[kc-web](https://github.com/noro6/kc-web)、[fleethub](https://github.com/MadonoHaru/fleethub)、[api_start2 镜像](https://github.com/Tibowl/api_start2)、wikiwiki。请控制抓取频率。
 - 这只是起点。用的过程中纠正 Claude 的错误，它会把教训记进自己的记忆，越用越准。
+
+## 许可
+本仓库自己的代码和文档以 [MIT](LICENSE) 许可发布。`setup.sh` 下载的第三方项目和数据不在此列，各自遵循其原许可。
